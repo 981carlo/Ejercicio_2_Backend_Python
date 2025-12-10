@@ -13,7 +13,7 @@ Este proyecto implementa una API REST para gestionar **productos** y **pedidos**
 
 ## 🧱 Tecnologías utilizadas
 
-- Python 3.x  
+- Python 3.x (no funciona con Python 3.10 y superiores) 
 - FastAPI  
 - Uvicorn  
 - bintrees (AVLTree)  
@@ -29,3 +29,7 @@ Instala las dependencias:
 
 ```bash
 pip install fastapi uvicorn bintrees
+
+## 📂 Documentación automática
+
+- http://127.0.0.1:8000/docs
