@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Mecánico RGB",
+        "categoria": "Periféricos",
+        "precio": 59.99
+    },
+    {
+        "id": 2,
+        "nombre": "Ratón Inalámbrico Logitech M185",
+        "categoria": "Periféricos",
+        "precio": 14.99
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor 24'' Full HD",
+        "categoria": "Monitores",
+        "precio": 129.0
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor 27'' 144Hz",
+        "categoria": "Monitores",
+        "precio": 249.0
+    },
+    {
+        "id": 5,
+        "nombre": "Auriculares Gaming HyperX Cloud II",
+        "categoria": "Audio",
+        "precio": 89.9
+    },
+    {
+        "id": 6,
+        "nombre": "Altavoces Logitech Z333",
+        "categoria": "Audio",
+        "precio": 49.99
+    },
+    {
+        "id": 7,
+        "nombre": "Disco SSD 500GB Samsung EVO",
+        "categoria": "Almacenamiento",
+        "precio": 68.5
+    },
+    {
+        "id": 8,
+        "nombre": "Disco HDD 1TB Seagate",
+        "categoria": "Almacenamiento",
+        "precio": 42.99
+    },
+    {
+        "id": 9,
+        "nombre": "Memoria RAM 16GB DDR4 3200MHz",
+        "categoria": "Componentes",
+        "precio": 72.9
+    },
+    {
+        "id": 10,
+        "nombre": "Procesador Intel i5-12400F",
+        "categoria": "Componentes",
+        "precio": 179.0
+    },
+    {
+        "id": 11,
+        "nombre": "Procesador AMD Ryzen 5 5600",
+        "categoria": "Componentes",
+        "precio": 159.0
+    },
+    {
+        "id": 12,
+        "nombre": "Placa Base MSI B550",
+        "categoria": "Componentes",
+        "precio": 118.0
+    },
+    {
+        "id": 13,
+        "nombre": "Fuente de Alimentación 650W 80+ Bronze",
+        "categoria": "Componentes",
+        "precio": 54.9
+    },
+    {
+        "id": 14,
+        "nombre": "Tarjeta Gráfica NVIDIA RTX 3060",
+        "categoria": "Componentes",
+        "precio": 329.0
+    },
+    {
+        "id": 15,
+        "nombre": "Cámara Web Full HD 1080p",
+        "categoria": "Periféricos",
+        "precio": 39.99
+    },
+    {
+        "id": 16,
+        "nombre": "Impresora Multifunción HP DeskJet 2720e",
+        "categoria": "Oficina",
+        "precio": 59.0
+    },
+    {
+        "id": 17,
+        "nombre": "Router WiFi 6 TP-Link AX1500",
+        "categoria": "Redes",
+        "precio": 79.99
+    },
+    {
+        "id": 18,
+        "nombre": "Switch Red 8 Puertos Gigabit",
+        "categoria": "Redes",
+        "precio": 32.9
+    },
+    {
+        "id": 19,
+        "nombre": "Silla Gaming Ergonómica",
+        "categoria": "Mobiliario",
+        "precio": 139.0
+    },
+    {
+        "id": 20,
+        "nombre": "Alfombrilla de Ratón XL",
+        "categoria": "Periféricos",
+        "precio": 12.5
+    },
+    {
+        "id": 21,
+        "nombre": "Teclado Bluetooth",
+        "categoria": "Periféricos",
+        "precio": 59.99
+    },
+    {
+        "id": 22,
+        "nombre": "Procesador AMD Ryzen 7 8400",
+        "categoria": "Componentes",
+        "precio": 123.99
+    }
+]
