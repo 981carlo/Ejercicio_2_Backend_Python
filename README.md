@@ -46,8 +46,6 @@ http://127.0.0.1:8000
 
 ## 📂 Documentación automática
 
-FastAPI proporciona documentación interactiva:
-
 🔗 **Swagger UI**  
 http://127.0.0.1:8000/docs
 
@@ -93,5 +91,5 @@ Esto permite reiniciar el servidor sin perder información.
 
 ## 👤 Autor
 
-Proyecto realizado por **[Carlo García González]**.
+Proyecto realizado por **Carlo García González**.
 
