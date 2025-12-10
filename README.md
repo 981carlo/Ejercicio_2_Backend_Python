@@ -6,8 +6,7 @@ Este proyecto implementa una API REST para gestionar **productos** y **pedidos**
 - **Productos** almacenados en un **árbol AVL** (`bintrees.AVLTree`)  
 - **Pedidos** almacenados en una **lista enlazada propia**  
 - **Persistencia** en archivos JSON  
-- **API REST** implementada con **FastAPI**, sin usar Pydantic  
-- Código sencillo y estructurado para fines educativos
+- **API REST** implementada con **FastAPI**
 
 ---
 
@@ -30,6 +29,6 @@ Instala las dependencias:
 ```bash
 pip install fastapi uvicorn bintrees
 
-## 📂 Documentación automática
+``` 📂 Documentación automática
 
-- http://127.0.0.1:8000/docs
+```  http://127.0.0.1:8000/docs

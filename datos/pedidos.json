@@ -1,1 +1,52 @@
-[]
+[
+    {
+        "id": 1,
+        "cliente": "Carlo",
+        "productos_seleccionados": [
+            {
+                "id": 1,
+                "nombre": "Teclado Mecánico RGB",
+                "categoria": "Periféricos",
+                "precio": 59.99
+            },
+            {
+                "id": 3,
+                "nombre": "Monitor 24'' Full HD",
+                "categoria": "Monitores",
+                "precio": 129.0
+            },
+            {
+                "id": 7,
+                "nombre": "Disco SSD 500GB Samsung EVO",
+                "categoria": "Almacenamiento",
+                "precio": 68.5
+            }
+        ],
+        "total": 257.49
+    },
+    {
+        "id": 2,
+        "cliente": "Juan",
+        "productos_seleccionados": [
+            {
+                "id": 4,
+                "nombre": "Monitor 27'' 144Hz",
+                "categoria": "Monitores",
+                "precio": 249.0
+            },
+            {
+                "id": 17,
+                "nombre": "Router WiFi 6 TP-Link AX1500",
+                "categoria": "Redes",
+                "precio": 79.99
+            },
+            {
+                "id": 21,
+                "nombre": "Teclado Bluetooth",
+                "categoria": "Periféricos",
+                "precio": 59.99
+            }
+        ],
+        "total": 388.98
+    }
+]
