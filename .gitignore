@@ -2,5 +2,5 @@
 !main.py
 !productos.py
 !pedidos.py
-!datos/
+!datos/**
 !.gitignore
